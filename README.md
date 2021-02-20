@@ -3,7 +3,7 @@
 ## Wayne del Corral Jr
 
 
-  <img src="https://github.com/waynedelcorraljr/waynedelcorraljr/blob/main/rockosModernLifeIntroKnowledge.gif">
+  <img src="https://github.com/waynedelcorraljr/waynedelcorraljr/blob/main/rockosModernLifeIntroKnowledge.gif" style="border-radius: 5px">
 
 
 
