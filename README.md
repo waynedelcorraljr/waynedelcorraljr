@@ -9,6 +9,6 @@
 
 ### Problem solving is my passion. 
 
-#### Aren't we the luckiest bunch, to make learning our hobby and mastery our infinitely distancing finish line?! 
+#### Learning is an ever blooming horizon - aren't we the luckiest bunch to make it our hobby?  
 
 </div>
